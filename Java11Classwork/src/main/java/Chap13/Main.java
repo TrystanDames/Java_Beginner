@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap12;
+package Chap13;
+
 
 /**
  *
@@ -30,14 +31,17 @@ public class Main {
 //            System.out.println("Item is not a shirt.");
 //        }
 
-        System.out.println("\n");
+        
 //        
-//        shirt02.display();
+        shirt02.display();
 //        System.out.println("\n");
 //        System.out.println("Item ID: " + shirt02.getItemID());
 //        System.out.println("\n");
 //        System.out.println("Shirt Sleeve: " + ((Shirt)shirt02).getSleeve());
 
-          System.out.println(shirt02.toString());
+//          System.out.println(shirt02.toString());
+        System.out.println("\n");
+            
+        System.out.println(((Shirt)shirt02).doReturn());
     }
 }

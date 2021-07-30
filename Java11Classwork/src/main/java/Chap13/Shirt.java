@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap12;
+package Chap13;
+
+
 
 /**
  *
  * @author User
  */
-public class Shirt extends Clothing {
+public class Shirt extends Clothing implements Returnables {
     private char fit;
     private String sleeve;
     private char color;
@@ -42,5 +44,10 @@ public class Shirt extends Clothing {
 
     public void setSleeve(String sleeve) {
         this.sleeve = sleeve;
+    }
+    
+    @Override
+    public String doReturn(){
+        return "This Item is returnable for 1 week!";
     }
 }
