@@ -3,15 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap10;
 
+package Chap08.Prac3.Soccer;
 
 /**
  *
- * @author User
+ * @author Administrator
  */
-public class Game {
-    public Team homeTeam;
-    public Team awayTeam;
-    public Goal[] goals;
+public class Goal {
+    
+    public Team theTeam;
+    public Player thePlayer;
+    public double theTime;
+    
 }

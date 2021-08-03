@@ -6,6 +6,8 @@
 
 package Chap08.Prac2.Soccer;
 
+import Chap08.Prac2.Utility.GameUtils;
+
 /**
  *
  * @author Administrator
@@ -18,9 +20,10 @@ public class Game {
     
     public void playGame(){
         int numberOfGoals = (int)(Math.random() * 7); 
-        System.out.println(numberOfGoals);
+//        System.out.println(numberOfGoals);
         Goal[] theGoals = new Goal[numberOfGoals];
         this.goals = theGoals;
+        GameUtils.addGameGoals(this);
     }
     
     StringBuilder returnString = new StringBuilder();

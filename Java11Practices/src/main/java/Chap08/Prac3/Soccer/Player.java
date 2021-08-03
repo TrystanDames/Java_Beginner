@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap09;
 
+package Chap08.Prac3.Soccer;
 
 /**
  *
- * @author User
+ * @author Administrator
  */
 public class Player {
-     public String playerName;
+    
+    public String playerName;
+    
 }

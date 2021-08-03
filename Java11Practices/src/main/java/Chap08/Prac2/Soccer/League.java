@@ -23,8 +23,6 @@ public class League {
 
         Game currGame = theGames[0];
         
-        GameUtils.addGameGoals(currGame);
-        
         currGame.playGame();
         
         System.out.println(currGame.getDescription());
@@ -67,4 +65,5 @@ public class League {
         Game[] theGames = {theGame};
         return theGames;
     }
+    
 }

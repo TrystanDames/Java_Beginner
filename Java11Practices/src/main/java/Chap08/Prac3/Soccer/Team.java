@@ -3,14 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Chap10;
 
+package Chap08.Prac3.Soccer;
 
 /**
  *
- * @author User
+ * @author Administrator
  */
 public class Team {
+    
     public String teamName;
     public Player[] playerArray;
+    
 }
