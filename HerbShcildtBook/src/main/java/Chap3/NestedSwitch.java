@@ -10,17 +10,15 @@ package Chap3;
  * @author User
  */
 public class NestedSwitch {
-    public static void main(String args[]) {
-        switch(ch1) { 
-            case 'A': System.out.println("This A is part of outer switch."); 
-              switch(ch2) { 
-                case 'A':  
-                  System.out.println("This A is part of inner switch"); 
-                  break; 
-                case 'B': // ... 
-              } // end of inner switch 
-              break; 
-            case 'B': // ...
-        }
-    }
+//    switch(ch1) { 
+//        case 'A': System.out.println("This A is part of outer switch."); 
+//          switch(ch2) { 
+//            case 'A':  
+//              System.out.println("This A is part of inner switch"); 
+//              break; 
+//            case 'B': // ... 
+//          } // end of inner switch 
+//          break; 
+//        case 'B': // ...
+//    }
 }
