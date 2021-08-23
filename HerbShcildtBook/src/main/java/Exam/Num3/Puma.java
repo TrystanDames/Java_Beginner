@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Exam;
+package Exam.Num3;
 
 /**
  *
@@ -11,7 +11,7 @@ package Exam;
  */
 
 abstract class Puma implements HasTail {
-//    protected int getTailLength() {return 4;} what the exam paper gave
+//    protected int getTailLength() {return 4;} //what the exam paper gave;
     public int getTailLength() {return 4;} //what it should have been for program to run
 }
 

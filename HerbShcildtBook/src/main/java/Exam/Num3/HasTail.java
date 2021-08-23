@@ -3,18 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Exam;
+package Exam.Num3;
 
 /**
  *
  * @author User
  */
-public class Cougar  extends Puma {
-
-public static void main(String[] args) {
-Puma puma = new Puma() {};
-System.out.println(puma.getTailLength());
+public interface HasTail {
+    int getTailLength(); 
 }
-
-public int getTailLength(int length) {return 2;}
- }
