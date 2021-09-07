@@ -32,7 +32,7 @@ public class Main {
 
         System.out.println("\n");
 //        
-//        shirt02.display();
+        shirt02.display();
 //        System.out.println("\n");
 //        System.out.println("Item ID: " + shirt02.getItemID());
 //        System.out.println("\n");
