@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="InterfacePart2" />
+        <module name="DigitSum" />
+        <module name="Autoboxing+UnboxingChallenge" />
+        <module name="ListAndArrayList" />
+        <module name="ArrayChallenge" />
+        <module name="MethodOverloading" />
+        <module name="Inheritance" />
+        <module name="Constructors" />
+        <module name="StatementsWhiteSpaceAndIndenting" />
+        <module name="ReadingUserInput" />
+        <module name="Classes" />
+        <module name="Operators" />
+        <module name="ForLoop" />
+        <module name="ParsingValuesFromStrings" />
+        <module name="LinkedList" />
+        <module name="HelloWorld" />
+        <module name="DaysOfTheWeek" />
+        <module name="Switch" />
+        <module name="ByteShortLong" />
+        <module name="ReverseArrayChallenge" />
+        <module name="InnerClass" />
+        <module name="AbstractClasses" />
+        <module name="Encapsulating" />
+        <module name="Arrays" />
+        <module name="Methods" />
+        <module name="MinAndMaxChallenge" />
+        <module name="ArrayListChallenge" />
+        <module name="ReferencesVsValueTypes" />
+        <module name="OOPTest" />
+        <module name="PrimitiveTypesChallenge" />
+        <module name="LinkedListChallenge" />
+        <module name="InnerClassChallenge" />
+        <module name="InheritanceChallenge" />
+        <module name="SampleCodingExercises" />
+        <module name="Composition" />
+        <module name="FloatAndDouble" />
+        <module name="IfKeywordAndCodeBlocks" />
+        <module name="CharAndBoolean" />
+        <module name="KeywordsAndExpressions" />
+        <module name="While" />
+        <module name="SampleCodingExercise" />
+        <module name="SpeedConverter" />
+        <module name="Strings" />
+        <module name="Sum3And5" />
+        <module name="Interfaces" />
+        <module name="InterfacesChallenge" />
+        <module name="MinElementChallenge" />
+        <module name="SecondsAndMinutesChallenge" />
+        <module name="Autoboxing+Unboxing" />
+        <module name="Polymorphism" />
+        <module name="ReadingUserInputChallenge" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="InterfacesPart2" target="11" />
+      <module name="untitled" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
