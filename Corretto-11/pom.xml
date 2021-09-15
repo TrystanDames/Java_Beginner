@@ -62,6 +62,10 @@
         <module>InnerClass</module>
         <module>InnerClassChallenge</module>
         <module>AbstractClasses</module>
+        <module>AbstractClassChallenge</module>
+        <module>Generics</module>
+        <module>GenericsPart2</module>
+        <module>GenericsChallenge</module>
     </modules>
 
     <properties>

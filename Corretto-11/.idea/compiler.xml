@@ -12,6 +12,7 @@
         <module name="ListAndArrayList" />
         <module name="ArrayChallenge" />
         <module name="MethodOverloading" />
+        <module name="GenericsChallenge" />
         <module name="Inheritance" />
         <module name="Constructors" />
         <module name="StatementsWhiteSpaceAndIndenting" />
@@ -28,6 +29,7 @@
         <module name="ReverseArrayChallenge" />
         <module name="InnerClass" />
         <module name="AbstractClasses" />
+        <module name="GenericsPart2" />
         <module name="Encapsulating" />
         <module name="Arrays" />
         <module name="Methods" />
@@ -40,6 +42,8 @@
         <module name="InnerClassChallenge" />
         <module name="InheritanceChallenge" />
         <module name="SampleCodingExercises" />
+        <module name="AbstractClassChallenge" />
+        <module name="Generics" />
         <module name="Composition" />
         <module name="FloatAndDouble" />
         <module name="IfKeywordAndCodeBlocks" />
