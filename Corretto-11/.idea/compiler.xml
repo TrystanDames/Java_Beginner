@@ -17,9 +17,13 @@
         <module name="Constructors" />
         <module name="StatementsWhiteSpaceAndIndenting" />
         <module name="ReadingUserInput" />
+        <module name="Packages" />
+        <module name="PackagesChallenge" />
         <module name="Classes" />
+        <module name="ScopeChallenge" />
         <module name="Operators" />
         <module name="ForLoop" />
+        <module name="StaticStatement" />
         <module name="ParsingValuesFromStrings" />
         <module name="LinkedList" />
         <module name="HelloWorld" />
@@ -41,8 +45,10 @@
         <module name="LinkedListChallenge" />
         <module name="InnerClassChallenge" />
         <module name="InheritanceChallenge" />
+        <module name="ModifiersAccess" />
         <module name="SampleCodingExercises" />
         <module name="AbstractClassChallenge" />
+        <module name="Final" />
         <module name="Generics" />
         <module name="Composition" />
         <module name="FloatAndDouble" />
@@ -57,6 +63,7 @@
         <module name="Interfaces" />
         <module name="InterfacesChallenge" />
         <module name="MinElementChallenge" />
+        <module name="Scope" />
         <module name="SecondsAndMinutesChallenge" />
         <module name="Autoboxing+Unboxing" />
         <module name="Polymorphism" />

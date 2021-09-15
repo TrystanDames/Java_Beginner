@@ -66,6 +66,13 @@
         <module>Generics</module>
         <module>GenericsPart2</module>
         <module>GenericsChallenge</module>
+        <module>Packages</module>
+        <module>PackagesChallenge</module>
+        <module>Scope</module>
+        <module>ScopeChallenge</module>
+        <module>ModifiersAccess</module>
+        <module>StaticStatement</module>
+        <module>Final</module>
     </modules>
 
     <properties>
