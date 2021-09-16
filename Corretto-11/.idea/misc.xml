@@ -12,7 +12,10 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/BinarySearch/pom.xml" />
+        <option value="$PROJECT_DIR$/CollectionsListMethod/pom.xml" />
         <option value="$PROJECT_DIR$/InterfacesPart2/pom.xml" />
+        <option value="$PROJECT_DIR$/SetsAndHashSet/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>

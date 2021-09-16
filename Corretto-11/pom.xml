@@ -73,6 +73,16 @@
         <module>ModifiersAccess</module>
         <module>StaticStatement</module>
         <module>Final</module>
+        <module>BinarySearch</module>
+        <module>CollectionsListMethod</module>
+        <module>Adventure</module>
+        <module>Collections</module>
+        <module>Sets+HashSet</module>
+        <module>SetsAndHashSet</module>
+        <module>Collection</module>
+        <module>Challenge</module>
+        <module>SetsChallenge</module>
+        <module>SortedCollections</module>
     </modules>
 
     <properties>

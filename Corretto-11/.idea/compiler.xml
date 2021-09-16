@@ -18,6 +18,7 @@
         <module name="StatementsWhiteSpaceAndIndenting" />
         <module name="ReadingUserInput" />
         <module name="Packages" />
+        <module name="Collections" />
         <module name="PackagesChallenge" />
         <module name="Classes" />
         <module name="ScopeChallenge" />
@@ -44,6 +45,7 @@
         <module name="PrimitiveTypesChallenge" />
         <module name="LinkedListChallenge" />
         <module name="InnerClassChallenge" />
+        <module name="SetsAndHashSet" />
         <module name="InheritanceChallenge" />
         <module name="ModifiersAccess" />
         <module name="SampleCodingExercises" />
@@ -54,6 +56,7 @@
         <module name="FloatAndDouble" />
         <module name="IfKeywordAndCodeBlocks" />
         <module name="CharAndBoolean" />
+        <module name="Adventure" />
         <module name="KeywordsAndExpressions" />
         <module name="While" />
         <module name="SampleCodingExercise" />
@@ -71,7 +74,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BinarySearch" target="11" />
+      <module name="Challenge" target="11" />
+      <module name="Collection" target="11" />
+      <module name="CollectionsListMethod" target="11" />
       <module name="InterfacesPart2" target="11" />
+      <module name="SetsChallenge" target="11" />
+      <module name="SortedCollections" target="11" />
       <module name="untitled" target="11" />
     </bytecodeTargetLevel>
   </component>
