@@ -46,6 +46,7 @@
         <module name="LinkedListChallenge" />
         <module name="InnerClassChallenge" />
         <module name="SetsAndHashSet" />
+        <module name="SetsChallenge" />
         <module name="InheritanceChallenge" />
         <module name="ModifiersAccess" />
         <module name="SampleCodingExercises" />
@@ -69,6 +70,7 @@
         <module name="Scope" />
         <module name="SecondsAndMinutesChallenge" />
         <module name="Autoboxing+Unboxing" />
+        <module name="SortedCollections" />
         <module name="Polymorphism" />
         <module name="ReadingUserInputChallenge" />
       </profile>
@@ -79,8 +81,6 @@
       <module name="Collection" target="11" />
       <module name="CollectionsListMethod" target="11" />
       <module name="InterfacesPart2" target="11" />
-      <module name="SetsChallenge" target="11" />
-      <module name="SortedCollections" target="11" />
       <module name="untitled" target="11" />
     </bytecodeTargetLevel>
   </component>
