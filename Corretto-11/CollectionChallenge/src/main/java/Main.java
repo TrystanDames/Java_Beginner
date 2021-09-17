@@ -18,6 +18,7 @@ public class Main {
 
         temp = new StockItem("cup", 0.50, 200);
         stockList.addStock(temp);
+
         temp = new StockItem("cup", 0.45, 7);
         stockList.addStock(temp);
 

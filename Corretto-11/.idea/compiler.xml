@@ -25,6 +25,7 @@
         <module name="Operators" />
         <module name="ForLoop" />
         <module name="StaticStatement" />
+        <module name="CollectionChallenge" />
         <module name="ParsingValuesFromStrings" />
         <module name="LinkedList" />
         <module name="HelloWorld" />
